@@ -85,7 +85,7 @@
 
 <p align="left">
 
-<a href="https://github.com/ideyou">
+<a href="https://github.com/Rayck-769">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
